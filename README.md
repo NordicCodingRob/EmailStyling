@@ -1,0 +1,2 @@
+# EmailStyling
+Styling For newsletters
